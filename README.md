@@ -1,4 +1,6 @@
-## Hi there 👋
+![github-readme-stats](https://github-readme-stats-00121kuri.vercel.app/api?username=00121kuri&count_private=true&show_icons=true)
+![github-readme-stats-top-langs](https://github-readme-stats-00121kuri.vercel.app/api/top-langs/?username=00121kuri&layout=compact)
+
 
 <!--
 **00121kuri/00121kuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
